@@ -1,9 +1,6 @@
 ---
-
 title: Music I want to listen to
-
 pubDate: 2025-04-27
-
 ---
 
 - [ ] "Symbolic" by Death
